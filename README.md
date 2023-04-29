@@ -6,3 +6,6 @@
 1. Pair [Fingerbot](https://www.adaprox.io/products/fingerbot-plus-1) with Tuya Smart app on your phone (you don't need a Bluetooth hub).
 2. Use [tuya-local-key-extractor](https://github.com/redphx/tuya-local-key-extractor) to extract required info.
 3. Run `python finger_me.py` (requires Python 3).
+  
+---  
+- [Home Assistant support for Tuya BLE devices by PlusPlus-ua](https://github.com/PlusPlus-ua/ha_tuya_ble)  
